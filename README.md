@@ -4,7 +4,7 @@
 <title>Assignment 1_Mr Yannick Fitzsimmons_s3689469_s3689469@student.rmit.edu.au</title>
 </head>
 <body>
-<img src="file:///"C:\Users\Yannick\Documents\yannick.jpg"alt= yannick.jpg width="458" height="991">
+<img src="Dirty Mo pic.jpg" width="458" height="991">
 
 <h1>Personal Information</h1>
 
