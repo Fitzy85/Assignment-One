@@ -4,7 +4,7 @@
 <title>Assignment 1_Mr Yannick Fitzsimmons_s3689469_s3689469@student.rmit.edu.au</title>
 </head>
 <body>
-<img src="Dirty Mo pic.jpg" width="458" height="991">
+<img src="Dirty Mo pic.jpg" width="250" height="550">
 
 <h1>Personal Information</h1>
 
@@ -57,7 +57,7 @@ My primary goal is to continue studying part time to complete my Bachelor of Bus
 
 <h3>Myers Briggs Test</h3>
 
-<img src="C:\Users\Yannick\Documents\education\Uni\RMIT\CPT 10-Intro to IT\Myers Briggs test.PNG" width="150" height="150">
+<img src="Myers Briggs test.PNG" width="150" height="150">
 
 <h3>Online Learning Style test</h3>
 
