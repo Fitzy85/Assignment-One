@@ -33,7 +33,7 @@ The end goal from my studies is to achieve a degree in a Bachelor of Business, m
 
 <a href="https://www.seek.com.au/job/56242967?type=standard#sol=e3720e23b94609c1a8dc18530c119b517d3f9a96"</a>
 
-<img src="C:\Users\Yannick\Documents\education\Uni\RMIT\CPT 10-Intro to IT\Seek- ideal job SC.PNG" width="150" height="150">
+<img src="Seek- ideal job SC.PNG" width="604" height="866">
 
 <h3>The Position</h3>
 
@@ -57,15 +57,15 @@ My primary goal is to continue studying part time to complete my Bachelor of Bus
 
 <h3>Myers Briggs Test</h3>
 
-<img src="Myers Briggs test.PNG" width="150" height="150">
+<img src="Myers Briggs test.PNG" width="1576" height="906">
 
 <h3>Online Learning Style test</h3>
 
-<img src="C:\Users\Yannick\Documents\education\Uni\RMIT\CPT 10-Intro to IT\Learning style test results.jpeg" width="150" height="150">
+<img src="Learning style test results.jpeg" width="603" height="670">
 
 <h3>Creativity Test</h3>
 
-<img src="C:\Users\Yannick\Documents\education\Uni\RMIT\CPT 10-Intro to IT\creativity test results.PNG" width="150" height="150">
+<img src="creativity test results.PNG" width="747" height="858">
 
 <h3>Testing result summary</h3>
 
